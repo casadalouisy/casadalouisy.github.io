@@ -1,0 +1,10 @@
+# Documentacao e historico locais
+*.md
+
+# Codigo do Google Apps Script (implantado na Planilha Google)
+*.gs
+
+# Convites em PDF e scripts auxiliares locais
+*.pdf
+*.py
+scripts/
